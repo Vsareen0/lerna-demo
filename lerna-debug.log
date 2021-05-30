@@ -1,0 +1,7 @@
+36 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+36 error Logon failed, use ctrl+c to cancel basic credential prompt.
+36 error bash: /dev/tty: No such device or address
+36 error error: failed to execute prompt script (exit code 1)
+36 error fatal: could not read Username for 'https://github.com': No such file or directory
+36 error     at makeError (C:\Users\VINAMRA\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\lib\error.js:59:11)
+36 error     at handlePromise (C:\Users\VINAMRA\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:114:26)
